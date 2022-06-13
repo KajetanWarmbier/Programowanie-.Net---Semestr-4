@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\bin\Debug\2-arrays-and-loops.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\bin\Debug\2-arrays-and-loops.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\bin\Debug\2-arrays-and-loops.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\obj\Debug\2-arrays-and-loops.csproj.AssemblyReference.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\obj\Debug\2-arrays-and-loops.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\obj\Debug\2-arrays-and-loops.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\2-arrays-and-loops\2-arrays-and-loops\obj\Debug\2-arrays-and-loops.pdb

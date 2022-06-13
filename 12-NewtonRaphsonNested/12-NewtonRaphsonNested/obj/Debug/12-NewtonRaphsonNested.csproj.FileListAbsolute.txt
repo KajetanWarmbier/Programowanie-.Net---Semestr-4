@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\bin\Debug\12-NewtonRaphsonNested.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\bin\Debug\12-NewtonRaphsonNested.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\bin\Debug\12-NewtonRaphsonNested.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\obj\Debug\12-NewtonRaphsonNested.csproj.AssemblyReference.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\obj\Debug\12-NewtonRaphsonNested.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\obj\Debug\12-NewtonRaphsonNested.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\12-NewtonRaphsonNested\12-NewtonRaphsonNested\obj\Debug\12-NewtonRaphsonNested.pdb

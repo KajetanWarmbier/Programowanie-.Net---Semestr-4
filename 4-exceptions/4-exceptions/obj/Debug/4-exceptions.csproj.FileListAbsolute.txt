@@ -1,0 +1,7 @@
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\bin\Debug\4-exceptions.exe.config
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\bin\Debug\4-exceptions.exe
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\bin\Debug\4-exceptions.pdb
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\obj\Debug\4-exceptions.csproj.AssemblyReference.cache
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\obj\Debug\4-exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\obj\Debug\4-exceptions.exe
+C:\Users\Kajetan\source\repos\4-exceptions\4-exceptions\obj\Debug\4-exceptions.pdb

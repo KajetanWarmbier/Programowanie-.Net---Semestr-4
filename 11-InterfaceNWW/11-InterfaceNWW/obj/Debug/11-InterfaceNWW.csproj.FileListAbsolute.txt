@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\bin\Debug\11-InterfaceNWW.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\bin\Debug\11-InterfaceNWW.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\bin\Debug\11-InterfaceNWW.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\obj\Debug\11-InterfaceNWW.csproj.AssemblyReference.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\obj\Debug\11-InterfaceNWW.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\obj\Debug\11-InterfaceNWW.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\11-InterfaceNWW\11-InterfaceNWW\obj\Debug\11-InterfaceNWW.pdb

@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\bin\Debug\9-ModClassMethods.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\bin\Debug\9-ModClassMethods.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\bin\Debug\9-ModClassMethods.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\obj\Debug\9-ModClassMethods.csproj.AssemblyReference.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\obj\Debug\9-ModClassMethods.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\obj\Debug\9-ModClassMethods.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\9-ModClassMethods\9-ModClassMethods\obj\Debug\9-ModClassMethods.pdb

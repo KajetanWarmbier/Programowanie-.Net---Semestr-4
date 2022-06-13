@@ -1,0 +1,6 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\8-MonteCarlo\8-MonteCarlo\bin\Debug\8-MonteCarlo.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\8-MonteCarlo\8-MonteCarlo\bin\Debug\8-MonteCarlo.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\8-MonteCarlo\8-MonteCarlo\bin\Debug\8-MonteCarlo.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\8-MonteCarlo\8-MonteCarlo\obj\Debug\8-MonteCarlo.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\8-MonteCarlo\8-MonteCarlo\obj\Debug\8-MonteCarlo.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\8-MonteCarlo\8-MonteCarlo\obj\Debug\8-MonteCarlo.pdb

@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\obj\Debug\7-FileSystem.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\bin\Debug\7-FileSystem.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\bin\Debug\7-FileSystem.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\bin\Debug\7-FileSystem.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\obj\Debug\7-FileSystem.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\obj\Debug\7-FileSystem.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\7-FileSystem\7-FileSystem\obj\Debug\7-FileSystem.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\bin\Debug\10-AbstractWirtual.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\bin\Debug\10-AbstractWirtual.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\bin\Debug\10-AbstractWirtual.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\obj\Debug\10-AbstractWirtual.csproj.AssemblyReference.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\obj\Debug\10-AbstractWirtual.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\obj\Debug\10-AbstractWirtual.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\10-AbstractWirtual\10-AbstractWirtual\obj\Debug\10-AbstractWirtual.pdb

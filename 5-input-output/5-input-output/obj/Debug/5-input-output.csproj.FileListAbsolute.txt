@@ -1,0 +1,6 @@
+C:\Users\Kajetan\source\repos\5-input-output\5-input-output\bin\Debug\5-input-output.exe.config
+C:\Users\Kajetan\source\repos\5-input-output\5-input-output\bin\Debug\5-input-output.exe
+C:\Users\Kajetan\source\repos\5-input-output\5-input-output\bin\Debug\5-input-output.pdb
+C:\Users\Kajetan\source\repos\5-input-output\5-input-output\obj\Debug\5-input-output.csproj.CoreCompileInputs.cache
+C:\Users\Kajetan\source\repos\5-input-output\5-input-output\obj\Debug\5-input-output.exe
+C:\Users\Kajetan\source\repos\5-input-output\5-input-output\obj\Debug\5-input-output.pdb

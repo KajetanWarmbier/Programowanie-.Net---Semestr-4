@@ -1,0 +1,7 @@
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\bin\Debug\3-constructor-overloading.exe.config
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\bin\Debug\3-constructor-overloading.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\bin\Debug\3-constructor-overloading.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\obj\Debug\3-constructor-overloading.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\obj\Debug\3-constructor-overloading.exe
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\obj\Debug\3-constructor-overloading.pdb
+E:\KajWarRepo\Programowanie .Net - Semestr 4\3-constructor-overloading\3-constructor-overloading\obj\Debug\3-constructor-overloading.csproj.AssemblyReference.cache
